@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ALC Starter</string>
+    <string name="welcome_txt">Welcome to ALC 4.0</string>
+    <string name="about_txt">About ALC</string>
+    <string name="my_profile">My Profile</string>
+    <string name="my_profile_image_txt">My Profile Image</string>
+    <string name="name_txt">Brendan Ejike</string>
+    <string name="slack_username">\@Brendan</string>
+    <string name="phone_no">2348100395180</string>
+    <string name="phone_number_txt">Phone Number:</string>
+    <string name="slack_txt">Slack Username:</string>
+    <string name="email_txt">Email:</string>
+    <string name="email">ejike.br@gmail.com</string>
+    <string name="country">Nigeria</string>
+    <string name="country_txt">Country:</string>
+    <string name="android_txt">Android</string>
+    <string name="track_txt">Track:</string>
+</resources>
